@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>AM Final Project</title>
+  <link href="styles.css" rel="stylesheet">
+  <script src="jquery.js" type="application/javascript"></script>
+</head>
+
+<body>
+	<div>
+		<h1> Ask Santa for Gift Ideas </h1>
+		<img  id = 'santa' src="images/santa.png" alt="Santa Claus" />	
+	</div>
+	<br>
+
+	<div>
+		<form id="santaslist">
+			 <label for="gift-selector"> Who is this gift for? </label> 
+				<select name="gift-selector" id="gift-selector" required>
+				  <option value=""> </option>
+				  <option value="Mom">Mom </option>
+				  <option value="Dad">Dad </option>
+				  <option value="Boyfriend">Boyfriend </option>
+				  <option value="Girlfriend">Girlfriend </option>
+				</select>
+			
+				<input type="submit" value="Check Santa's Sack" />
+		</form>
+	</div>
+
+	<div>
+		<h1 id = 'header' class = 'hidden'> Santa Recommends: </h1>
+	</div>
+
+	<div id = 'main'>
+		<div>
+			<h2 class='name'></h2>
+			<img class='gift' src="images/giftbox.png" alt="Picture of gift box" />
+			<p class='price'></p>
+		</div>
+
+		<div>
+			<h2 class='name'></h2>
+			<img class='gift' src="images/giftbox.png" alt="Picture of gift box" />
+			<p class='price'></p>
+		</div>
+
+		<div>
+			<h2 class='name'></h2>
+			<img class='gift' src="images/giftbox.png" alt="Picture of gift box" />
+			<p class='price'></p>
+		</div>
+	</div>
+
+<script src="scripts.js"></script>
+</body>
+
+</html>

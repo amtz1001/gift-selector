@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(10, 22, 48);
+    background-color: rgb(38, 145, 113);
+    font-family: 'Lucida Handwriting', Times, serif;
+}
+
+img {
+    width:200px;
+}
+
+#santa{
+    transition: all 1s ease;
+}
+
+#santa.spin{
+    transform: rotateZ(720deg) scale(1);
+}
+
+#santaslist, #main{
+    margin: auto;
+    width: 400px;
+    background-color: rgb(252, 221, 167);
+    font-family: 'Times New Roman', Times, serif;
+    border-style: groove;
+    border-color: rgb(247, 206, 81);
+
+}
+
+.hidden{
+    visibility: hidden;
+}

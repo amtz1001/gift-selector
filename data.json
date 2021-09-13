@@ -1,0 +1,57 @@
+{"mom": [
+    {"source": "images/mom/jewelry.jpg",
+    "alt": "Image of a pedestal jewelry holder", 
+    "name": "Pedestal Jewelry Holder",  
+    "price": "$48.00"},
+    {"source": "images/mom/bamboo.jpg",
+    "alt": "Image of a lotus-flower shaped serving board.", 
+    "name": "Bamboo Lotus Serving Board",  
+    "price": "$48.00"},
+    {"source": "images/mom/seat.jpg",
+    "alt": "Image of a seat for gardening and holding tools.", 
+    "name": "Gardener's Tool Seat",  
+    "price": "$40.00"}
+],
+"dad": [
+    {"source": "images/dad/pistachio.jpg",
+    "alt": "Image of a wooden pedestal for pistachios.", 
+    "name": "Pistachio Pedestal",  
+    "price": "$48.00"},
+    {"source": "images/dad/accordion.jpg",
+    "alt": "Image of a lamp in the shape of accordion.", 
+    "name": "Accordion Sculptural Lamp",  
+    "price": "$69.00"},
+    {"source": "images/dad/waffle.jpg",
+    "alt": "Image of small waffle iron.", 
+    "name": "Stuffed Waffle Iron",  
+    "price": "$69.00"}
+],
+"gf": [
+    {"source": "images/gf/hair.jpg",
+    "alt": "Image of a hanger for holding hair care products.", 
+    "name": "Hair Care Holder",  
+    "price": "$45.00"},
+    {"source": "images/gf/necklace.jpg",
+    "alt": "Image of a necklace with birth flower embedded.", 
+    "name": "Birth Month Flower Earrings",  
+    "price": "$48.00"},
+    {"source": "images/gf/yoga.jpg",
+    "alt": "Image of cork wheel for yoga.", 
+    "name": "Cork Yoga Wheel",  
+    "price": "$54.00"}
+],
+"bf": [
+    {"source": "images/bf/beeropoly.jpg",
+    "alt": "Image of a board game called Beeropoly.", 
+    "name": "Beeropoly",  
+    "price": "$70.00"},
+    {"source": "images//bf/utility.jpg",
+    "alt": "Image of a multi-tool bracelet.", 
+    "name": "Men's Utility Bracelet",  
+    "price": "$40.00"},
+    {"source": "images/bf/baseball.jpg",
+    "alt": "Image of a baseball board game.", 
+    "name": "Baseball Board Game",  
+    "price": "$56.00"}
+]}
+
